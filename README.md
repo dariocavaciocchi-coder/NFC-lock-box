@@ -39,4 +39,4 @@ More images can be found in the images folder
 ![Top Case](Images/Top_of_Box_(Assembled).png)
 ![Assembled](Images/Assembled_Box_(Exterior).png)
 
-![BOM](Images/BOM.png)
+![BOM](Images/BOM2.png)
