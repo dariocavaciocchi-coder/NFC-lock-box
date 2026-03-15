@@ -20,9 +20,9 @@ A more detailed BOM can be found in the BOM folder
 * M3 4mm spacer X8
 * PCB X1
 * LED X1
-* 330? resistor X1
+* 330ohm resistor X1
 * 100nF ceramic capacitor X1
-* 100? electrolytic capacitor X1
+* 100microF electrolytic capacitor X1
 * 2.54mm pin header X3
 * M3 12mm screws X4
 * M3 6mm screws X2
